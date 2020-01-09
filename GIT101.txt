@@ -1,0 +1,60 @@
+GIT:
+versioning
+
+Git Bash
+
+$ pwd
+$ clear
+
+$ ls 
+$ ls -la
+$ cd .. 
+$ cd folder like it is in cmd
+
+$ git init
+$ git add .
+$ git add <file>
+$ git commit -m "comment"
+
+$ git log
+$ git log --author="User"
+
+$ git status
+
+
+working area > staging > repository
+files > add > commit
+
+$ git diff
+$ git diff --staged
+
+
+>> GITHUB 
+
+$ git remote add <nickname> <github online path>
+
+$ git push -u "nickname / path" master
+
+
+
+
+$ git rm <file>
+
+$ git mv <file> <new name>
+
+$ git mc <file> folder/filename.txt
+
+
+$ git commit -am "comments" - directly committed w/o add
+
+$ git checkout -- <file>
+
+$ git reset HEAD <file>
+
+$ git checkout version name -- <file>
+
+cd //fscore01.core.dc/RDWeb
+
+
+
+
